@@ -1,0 +1,1 @@
+A plugin for Intellij IDEA to automate test-case download and solution testing for Codeforces contests.
